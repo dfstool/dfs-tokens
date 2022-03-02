@@ -7,8 +7,8 @@ Make a pull request with the following changes:
 ```json
 {
     "name": "<NAME>",
-    "logo": "https://raw.githubusercontent.com/punkpal/eos-tokens/main/logos/<SYMBOL>.png",
-    "logo_lg": "https://raw.githubusercontent.com/punkpal/eos-tokens/main/logos/<SYMBOL>.png",
+    "logo": "https://raw.githubusercontent.com/metahubwallet/eos-tokens/main/logos/<SYMBOL>.png",
+    "logo_lg": "https://raw.githubusercontent.com/metahubwallet/eos-tokens/main/logos/<SYMBOL>.png",
     "symbol": "<SYMBOL>",
     "account": "<CONTRACT NAME>",
     "chain": "eos",

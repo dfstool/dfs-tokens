@@ -18,5 +18,5 @@ Make a pull request with the following changes:
 add large token log to `./logos/$chain/$contract-$symbol-large.png`
 
 Next, you can splice to get the token logo you need. 
-For example: https://raw.githubusercontent.com/metahubwallet/eos-tokens/master/logos/eos/eosio.token-eos.png, 
-CDN Url: https://cdn.jsdelivr.net/gh/metahubwallet/eos-tokens@master/logos/eos/eosio.token-eos.png 
+For example: https://raw.githubusercontent.com/metahubwallet/eos-tokens/master/logos/eos/tethertether-usdt.png, 
+and CDN url: https://cdn.jsdelivr.net/gh/metahubwallet/eos-tokens@master/logos/eos/tethertether-usdt.png

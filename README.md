@@ -7,13 +7,16 @@ Make a pull request with the following changes:
 ```json
 {
     "name": "<NAME>",
-    "logo": "https://raw.githubusercontent.com/metahubwallet/eos-tokens/main/logos/<SYMBOL>.png",
-    "logo_lg": "https://raw.githubusercontent.com/metahubwallet/eos-tokens/main/logos/<SYMBOL>.png",
     "symbol": "<SYMBOL>",
-    "account": "<CONTRACT NAME>",
+    "contract": "<CONTRACT NAME>",
     "chain": "eos",
     "precision": 4
 }
 ```
 
-2. Add token logo `*.png` to [`./logos`](./logos) folder
+2. Add token logo to `./logos/$chain/$contract-$symbol.png`, 
+add large token log to `./logos/$chain/$contract-$symbol-large.png`
+
+Next, you can splice to get the token logo you need. 
+For example: https://raw.githubusercontent.com/metahubwallet/eos-tokens/master/logos/eos/eosio.token-eos.png, 
+CDN Url: https://cdn.jsdelivr.net/gh/metahubwallet/eos-tokens@master/logos/eos/eosio.token-eos.png 

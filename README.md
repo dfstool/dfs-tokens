@@ -15,7 +15,7 @@ Make a pull request with the following changes:
 ```
 
 2. Add token logo to `./logos/$chain/$contract-$symbol.png`, 
-add large token log to `./logos/$chain/$contract-$symbol-large.png`
+add large token logo to `./logos/$chain/$contract-$symbol-large.png`
 
 Next, you can splice to get the token logo you need. 
 For example: https://raw.githubusercontent.com/metahubwallet/eos-tokens/master/logos/eos/tethertether-usdt.png, 

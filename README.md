@@ -9,8 +9,8 @@ Make a pull request with the following changes:
     "name": "<NAME>",
     "symbol": "<SYMBOL>",
     "contract": "<CONTRACT NAME>",
-    "chain": "eos",
-    "precision": 4
+    "chain": "dfs",
+    "precision": 8
 }
 ```
 
@@ -18,5 +18,4 @@ Make a pull request with the following changes:
 add large token logo to `./logos/$chain/$contract-$symbol-large.png`
 
 Next, you can splice to get the token logo you need. 
-For example: https://raw.githubusercontent.com/metahubwallet/eos-tokens/master/logos/eos/tethertether-usdt.png, 
-and CDN url: https://cdn.jsdelivr.net/gh/metahubwallet/eos-tokens@master/logos/eos/tethertether-usdt.png
+For example: https://raw.githubusercontent.com/dfstool/dfs-tokens/master/logos/dfs/tethertether-usdt.png

@@ -18,4 +18,4 @@ Make a pull request with the following changes:
 add large token logo to `./logos/$chain/$contract-$symbol-large.png`
 
 Next, you can splice to get the token logo you need. 
-For example: https://raw.githubusercontent.com/dfstool/dfs-tokens/master/logos/dfs/tethertether-usdt.png
+For example: https://raw.githubusercontent.com/dfstool/dfs-tokens/master/logos/dfs/usdtusdtusdt-USDT.png
